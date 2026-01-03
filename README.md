@@ -1,6 +1,21 @@
 # Utilities-Sector---Research-Investement-Recommendations
 Research &amp; Investement Recommendations in the Utilities :- Quantitative &amp; Qualitative Analysis of Indian Utilities Companies, by Suraj Kumar Thakur.
 
+<div align="center">
+<a href="/Resources - Utilities Sector Project/Utilities Sector _ Project Title- Research and Investment Recommendation in the Utilities Sector.pptx" target="_blank">
+  <button style="
+    background-color: navy;color: white;padding: 5px 15px;margin: 5px;border: none;border-radius: 5px;cursor: pointer;font-size: 16px;">
+    PPT Document
+  </button>
+</a>
+ ✶ 
+<a href="/Resources - Utilities Sector Project/Utilities Sector _ Project Title- Research and Investment Recommendation in the Utilities Sector.xlsx" target="_blank">
+  <button style="background: navy; color: white; padding: 10px 20px; border: none; border-radius: 5px;">
+    Excel Document
+  </button>
+</a>
+</div>
+
 ## ABOUT PROJECT
 
 <img width="1392" height="781" alt="image" src="https://github.com/user-attachments/assets/ca428eb8-b359-4abf-8296-70b606a55403" /><br/>
